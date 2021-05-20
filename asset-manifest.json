@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/EFUB_react/static/css/main.e9977d9b.chunk.css",
+    "main.js": "/EFUB_react/static/js/main.79e44abe.chunk.js",
+    "main.js.map": "/EFUB_react/static/js/main.79e44abe.chunk.js.map",
+    "runtime-main.js": "/EFUB_react/static/js/runtime-main.baca0a0a.js",
+    "runtime-main.js.map": "/EFUB_react/static/js/runtime-main.baca0a0a.js.map",
+    "static/js/2.c3a0f1b6.chunk.js": "/EFUB_react/static/js/2.c3a0f1b6.chunk.js",
+    "static/js/2.c3a0f1b6.chunk.js.map": "/EFUB_react/static/js/2.c3a0f1b6.chunk.js.map",
+    "index.html": "/EFUB_react/index.html",
+    "static/css/main.e9977d9b.chunk.css.map": "/EFUB_react/static/css/main.e9977d9b.chunk.css.map",
+    "static/js/2.c3a0f1b6.chunk.js.LICENSE.txt": "/EFUB_react/static/js/2.c3a0f1b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baca0a0a.js",
+    "static/js/2.c3a0f1b6.chunk.js",
+    "static/css/main.e9977d9b.chunk.css",
+    "static/js/main.79e44abe.chunk.js"
+  ]
+}
